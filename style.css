@@ -3,9 +3,15 @@ body{
     font-family:  Arial, Helvetica, sans-serif;
     font-size: 33px;
 }
+@keyframes pulsujkolor {
+    0% { color: red}
+    50% { color: pink}
+    100% { color: green}
+}
 h1{
     color: blue;
     text-align: center;
+    animation: pulsujkolor 4s infinite;
 }
 ul{
     list-style-type: georgian;
