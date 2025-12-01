@@ -11,3 +11,14 @@ ul{
     list-style-type: georgian;
     padding-top: 300px;
     margin: 20px;
+}
+.wyroznione{
+    color: rgb(39, 240, 240);
+    font-weight: bold;
+    background-color: blueviolet;
+}
+p{
+    margin: 15px;
+    line-height: 1.6;
+    text-indent: 20px;
+}
